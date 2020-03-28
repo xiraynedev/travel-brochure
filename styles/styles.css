@@ -163,7 +163,7 @@ header nav a {
     padding: 2rem;
     background-clip: content-box;
     background-size: cover;
-    background-position: top;
+    background-position: center;
 }
 
 .destinations .grid li.small {
